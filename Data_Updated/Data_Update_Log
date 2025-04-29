@@ -1,0 +1,8 @@
+This folder contains the updated data for analysis (Placed on Drive here: https://drive.google.com/drive/folders/1adteeeQbMLlqO8QD68Q_4A4aCXNx3v0G?usp=sharing)
+
+Updates for Transaction Data:
+1. Dropping receipts with zero Final Quantity and blank Final Sale
+2. Converting Barcode into a string of length 14
+
+Updates for Product Data:
+1. Converting Barcode into a string of length 14
